@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+#Weather App | React App | ReactJs Project
+####I build a weather App with React JS and Tailwind CSS using OpenWeatherMap API.The Build will also include hourly and daily forecasts.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Technologies I used to build this project are following:
+
+---
+
++ReactJs
++Tailwind
++Hooks
++Google fonts
++FontIcons
+
+---
+
+##Useful links:
+
+---
+
++Openweather API: https://openweathermap.org/
++CSS: https://tailwindcss.com/docs/guides/c...
++IconScout: https://iconscout.com/unicons
++luxon: https://www.npmjs.com/package/luxon
++react-toastify: https://www.npmjs.com/package/react-t...
+
+<!-- # Getting Started with Create React App -->
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,4 +92,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
